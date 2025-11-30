@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-custom-style-fonts",
+	"name": "Custom Style Fonts",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Customize fonts specifically for bold and italic text.",
+	"author": "YuxinLiu and Gem",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
