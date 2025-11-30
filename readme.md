@@ -27,3 +27,7 @@
 ……内容如下：
 
 ![alt text](assets/image-4.png)
+
+---
+
+> Powered by Gemini~
